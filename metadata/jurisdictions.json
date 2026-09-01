@@ -1,475 +1,543 @@
 {
-  "signatures": [],
-  "signed": {
-    "_type": "targets",
-    "expires": "2027-09-01T19:40:00Z",
-    "spec_version": "1.0.31",
-    "targets": {
-      "jurisdictions/AT.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-at",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "c32cae33f466970ad1261ebce270ad9525b7ac3752a49302812dc9bda47337f3"
-        },
-        "length": 5239
-      },
-      "jurisdictions/BE.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-be",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "6034c3cf799dfb697549688b0dca862d60e5787252abdb32761bd48ee3bf087b"
-        },
-        "length": 5283
-      },
-      "jurisdictions/BG.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-bg",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "2b36fe479321d73ab7352e6f153e8195dcb65d6978b4944617e3e1b1c05c01d3"
-        },
-        "length": 5242
-      },
-      "jurisdictions/CN.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-cn",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "501e3d0aa2b19dd35b6f2027c9e6a79da21d0e9f2209efbf2dbdd7464c5575f8"
-        },
-        "length": 3263
-      },
-      "jurisdictions/CY.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-cy",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "f89547bd3f59ecb7cba550890903eda82b5f623d3babd5419e05a2ad618961ef"
-        },
-        "length": 5300
-      },
-      "jurisdictions/CZ.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-cz",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "e6aff9b7800a5c72924f3061b8dcbccacfbf449dde8e78322cbab24012172d47"
-        },
-        "length": 5233
-      },
-      "jurisdictions/DE.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-de",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "566ece201b8b36456f2201182cd28c03a5ff13aaab76607cc4e3003310275736"
-        },
-        "length": 5351
-      },
-      "jurisdictions/DK.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-dk",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "ccf774c818c77e87eb738fd55b65cd940f36b45c6c058dcd9c08e38b238af56f"
-        },
-        "length": 5203
-      },
-      "jurisdictions/EE.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-ee",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "486b04b0af9edf40a0d9960ea6cda3533c6f3265afccbc5df36f0b11ef5fdf74"
-        },
-        "length": 5209
-      },
-      "jurisdictions/ES.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-es",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "916bbee08f99b3e48b48291dc300de403bcaa62c2315bf99c1fefdf9c659d4f7"
-        },
-        "length": 5243
-      },
-      "jurisdictions/FI.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-fi",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "fcc6ef1454ad33c93cd8e9dfb0bec9e1d9772118556edc2c809a44c7da8c88a5"
-        },
-        "length": 5251
-      },
-      "jurisdictions/FR.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-fr",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "703c4f0bd1fe2be2158d780e3ecb9d5d2a16b6007358fa334ac98349506509ad"
-        },
-        "length": 5272
-      },
-      "jurisdictions/GB.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-gb",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "f4e0e1604cb02ab4b3d72c738b852c5595db5a1ac96d4b8bcbee15b6db1ee852"
-        },
-        "length": 5704
-      },
-      "jurisdictions/GR.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-gr",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "dd6fc7957675e38f7ed6bb5b1e504277350570d7bee319ccb2dc1785e1cbfd21"
-        },
-        "length": 5228
-      },
-      "jurisdictions/HR.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-hr",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "03c73ed446635b219c2c4797bca29481f52ee9719e86d2b5d44475cf897b2e31"
-        },
-        "length": 5229
-      },
-      "jurisdictions/HU.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-hu",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "ba91f60f0b032342663a5e4029964c833f41e8f7343bdfa043e7e36c7d388987"
-        },
-        "length": 5293
-      },
-      "jurisdictions/IE.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-ie",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "55806d281eb8b7f7433000b4ed3803782ae771c4b835df92b5f0f67a3744b8c6"
-        },
-        "length": 5235
-      },
-      "jurisdictions/IS.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-is",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "510078abd219da938ed503d8cb03751d87f6b395d157bcf8d8cb07054c4e1bb6"
-        },
-        "length": 5277
-      },
-      "jurisdictions/IT.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-it",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "f1f134891eaafd5652d24f2ae96129c4e093929dce9d059bbf2677f41bf250d3"
-        },
-        "length": 5269
-      },
-      "jurisdictions/LI.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-li",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "51649e73b451a86140d21cadb71f26444a63ee47be9db833a67cda88dcf09be2"
-        },
-        "length": 5245
-      },
-      "jurisdictions/LT.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-lt",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "b49c4d3d8c12349d044477d4383f4da05ad4ddd8ed0cf5472dc104d3e97f61c9"
-        },
-        "length": 5233
-      },
-      "jurisdictions/LU.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-lu",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "3fe13638f436045ebd5eb69e4746465c4345ffd1895792e1e213a7b3995fa66d"
-        },
-        "length": 5290
-      },
-      "jurisdictions/LV.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-lv",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "9e82260383bcb48258f5edb2a7cfc717ebf8739a4d67e8993af3c40aafcb1539"
-        },
-        "length": 5218
-      },
-      "jurisdictions/MT.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-mt",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "22925b4a29c4cb9418824fec67e1575c68bdb923bbfe08bfca23295db1e45066"
-        },
-        "length": 5249
-      },
-      "jurisdictions/NL.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-nl",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "629d11596fd5f140599ce6af37b1e4e6d9e1467f8900081b65cb1e6537f5c514"
-        },
-        "length": 5257
-      },
-      "jurisdictions/NO.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-no",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "1bf78e632023d3bc4632b6a1be8efda7a427ad4ea97aa8045ef31728e155eb7b"
-        },
-        "length": 5202
-      },
-      "jurisdictions/PL.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-pl",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "a2e99f1ea94d16b9140d58051248f09c8c81741700fa28bacde5e2b249517a7f"
-        },
-        "length": 5224
-      },
-      "jurisdictions/PT.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-pt",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "eaa0aa8709ea6e8000fadad2ddd952ca11ba7266d70c24033246aa4623d7f19e"
-        },
-        "length": 5246
-      },
-      "jurisdictions/RO.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-ro",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "d14766b26efc1ecfda676e0c198342621269c06dcf3ddd1df5cc1fedf9940742"
-        },
-        "length": 5301
-      },
-      "jurisdictions/SE.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-se",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "fa47a5f22caa52a55a539f502bae26783d55126b501676a942407a1ad42cffee"
-        },
-        "length": 5240
-      },
-      "jurisdictions/SI.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-si",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "5bff369ad157773b2f96ccf550b6c7617a30b1d5a7e060681a9474fcfadd44fd"
-        },
-        "length": 5214
-      },
-      "jurisdictions/SK.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-sk",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "51162703a6fccd0b46f48b6fb2bab280a240baca6b78cd8dad8ed4dc9774b698"
-        },
-        "length": 5264
-      },
-      "jurisdictions/US.json": {
-        "custom": {
-          "max_bytes": 65536,
-          "schema_version": 1,
-          "sequence": 2,
-          "target_id": "jurisdiction-us",
-          "target_type": "jurisdiction",
-          "version": "2"
-        },
-        "hashes": {
-          "sha256": "47abfd431033be2ee6dc536aa4a6126b6cddb59dcff9578d96629ada4a433779"
-        },
-        "length": 2490
-      }
+ "signatures": [
+  {
+   "bundle": {
+    "mediaType": "application/vnd.dev.sigstore.bundle.v0.3+json",
+    "messageSignature": {
+     "messageDigest": {
+      "algorithm": "SHA2_256",
+      "digest": "wwj8xbmgvK9Y/DO7GLAvhzSF8meCa79zhtoXckVqIvw="
+     },
+     "signature": "MEUCIQCrtnCpVKphK5JbX1WQ586Rg/c/WL84L6/23cvjOaUV2wIgHx2b7liZCZ1BeTKpV8Etr2KmNSt7HhoX8WOkmfxMnMk="
     },
-    "version": 2,
-    "x-tuf-on-ci-expiry-period": 365,
-    "x-tuf-on-ci-signing-period": 60
+    "verificationMaterial": {
+     "certificate": {
+      "rawBytes": "MIIDPzCCAsWgAwIBAgIUafGDZlxyBUsSc5IJ0hRRBALlu5cwCgYIKoZIzj0EAwMwNzEVMBMGA1UEChMMc2lnc3RvcmUuZGV2MR4wHAYDVQQDExVzaWdzdG9yZS1pbnRlcm1lZGlhdGUwHhcNMjYwOTAxMTk0MDU0WhcNMjYwOTAxMTk1MDU0WjAAMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEqZ+auW3piFBhw8n7UvAAEESOWS+4p4P6sPKvKl2/8z9nOYAZrHKWiLpEQNpAyseX4gEUqhU/Yxysb9ZxJbKodqOCAeQwggHgMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDAzAdBgNVHQ4EFgQU0ljS63IyrC/hAviKFF6tzc1y3N0wHwYDVR0jBBgwFoAU39Ppz1YkEZb5qNjpKFWixi4YZD8wOAYDVR0RAQH/BC4wLIEqMjc0NjQ5MTk5K0JyYW5hbjBAdXNlcnMubm9yZXBseS5naXRodWIuY29tMCwGCisGAQQBg78wAQEEHmh0dHBzOi8vZ2l0aHViLmNvbS9sb2dpbi9vYXV0aDAuBgorBgEEAYO/MAEIBCAMHmh0dHBzOi8vZ2l0aHViLmNvbS9sb2dpbi9vYXV0aDBUBgorBgEEAYO/MAEYBEYMRENna3lOelEyTkRreE9Ua1NKbWgwZEhCek9pVXlSaVV5Um1kcGRHaDFZaTVqYjIwbE1rWnNiMmRwYmlVeVJtOWhkWFJvMIGKBgorBgEEAdZ5AgQCBHwEegB4AHYA3T0wasbHETJjGR4cmWc3AqJKXrjePK3/h4pygC8p7o4AAAGgXn0jGAAABAMARzBFAiBBO96ZkMcFxZs67yYWTfqo0takX96c/AHwMH7X8PrMzAIhAIxFGE0KZj/btMX8XL5cEd7W7MENlPbmPZCW8J8MRA4PMAoGCCqGSM49BAMDA2gAMGUCMEqJ998Muj9hzW3995gqEuVUUm79DvlPo/ec8pSfRPABClGWtLWD3sBAWCC0Y+QJFgIxAOV/qW3AXBfu6iV5sp67BfqpEOWw2Nq9klEYoxRBUV2Eyx54HZ4zYG4KMx+8LtjtjQ=="
+     },
+     "timestampVerificationData": {
+      "rfc3161Timestamps": [
+       {
+        "signedTimestamp": "MIIE6TADAgEAMIIE4AYJKoZIhvcNAQcCoIIE0TCCBM0CAQMxDTALBglghkgBZQMEAgEwgcIGCyqGSIb3DQEJEAEEoIGyBIGvMIGsAgEBBgkrBgEEAYO/MAIwMTANBglghkgBZQMEAgEFAAQguzyyyL5xclZ+YQBnL5q+dKGxB3u9OX4T26cMNuXLZnACFGBqMT2UBAH67QJtqOft+QgEqsi8GA8yMDI2MDkwMTE5NDA1NFowAwIBAQIJAP5q8AH8C05soDKkMDAuMRUwEwYDVQQKEwxzaWdzdG9yZS5kZXYxFTATBgNVBAMTDHNpZ3N0b3JlLXRzYaCCAhQwggIQMIIBlqADAgECAhQ6E1QvDJBh7rzBQy/Lio6LKiOLDDAKBggqhkjOPQQDAzA5MRUwEwYDVQQKEwxzaWdzdG9yZS5kZXYxIDAeBgNVBAMTF3NpZ3N0b3JlLXRzYS1zZWxmc2lnbmVkMB4XDTI1MDQwODA2NTk0M1oXDTM1MDQwNjA2NTk0M1owLjEVMBMGA1UEChMMc2lnc3RvcmUuZGV2MRUwEwYDVQQDEwxzaWdzdG9yZS10c2EwdjAQBgcqhkjOPQIBBgUrgQQAIgNiAATitrZnyEo2KDZP2QWMIBOgYbfSOTL5ZC/cHMv6Yq+HVIo1H9TC7Cx80KDiyvKhgB3wTqKyi9UDczhqg12b1AOLnRnydMTK+qB8M+1MjBci1+Jb8AV/VXu7CRuQCiPTHFyjajBoMA4GA1UdDwEB/wQEAwIHgDAdBgNVHQ4EFgQUif15Q4fP0GVGwwJGxyxzW3206wMwHwYDVR0jBBgwFoAUmOwB73+7Uf/UlR5vioiYUweJzr8wFgYDVR0lAQH/BAwwCgYIKwYBBQUHAwgwCgYIKoZIzj0EAwMDaAAwZQIwO2mxX/opo7SrIX9QyxfZpJRcpAV2gZOm1AZzR+2rVyy6Uc8Ybp2ybIw13ckH4bcRAjEA5qO8FyOkmYpvg2/7ZNqiPxRzn5vqKHoVcIIqtpKq6l7TvOqzAxxclN7VwTG8e++XMYIB2jCCAdYCAQEwUTA5MRUwEwYDVQQKEwxzaWdzdG9yZS5kZXYxIDAeBgNVBAMTF3NpZ3N0b3JlLXRzYS1zZWxmc2lnbmVkAhQ6E1QvDJBh7rzBQy/Lio6LKiOLDDALBglghkgBZQMEAgGggfwwGgYJKoZIhvcNAQkDMQ0GCyqGSIb3DQEJEAEEMBwGCSqGSIb3DQEJBTEPFw0yNjA5MDExOTQwNTRaMC8GCSqGSIb3DQEJBDEiBCCfqc3hKb3svwG7WuOxOBUivXZPxIEcq0vQdKOoexvvyjCBjgYLKoZIhvcNAQkQAi8xfzB9MHsweQQghfknvAerYsrDtENWwQ78gbLGiD/aernm2HDZ0TrNBbcwVTA9pDswOTEVMBMGA1UEChMMc2lnc3RvcmUuZGV2MSAwHgYDVQQDExdzaWdzdG9yZS10c2Etc2VsZnNpZ25lZAIUOhNULwyQYe68wUMvy4qOiyojiwwwCgYIKoZIzj0EAwIEZjBkAjAaVh5pr9PTlxF120XFXJzn7CkNpm5t1I/2UL0Fj1PM1qUGVGAI0GjOkPXNsuyY/FgCMGFhz3xuMdI9twQxU2mPIAdG9k8PODq91bpO+HfoS1bCFSMU+tF9S7PDz97N07wvhQ=="
+       }
+      ]
+     },
+     "tlogEntries": [
+      {
+       "canonicalizedBody": "eyJhcGlWZXJzaW9uIjoiMC4wLjEiLCJraW5kIjoiaGFzaGVkcmVrb3JkIiwic3BlYyI6eyJkYXRhIjp7Imhhc2giOnsiYWxnb3JpdGhtIjoic2hhMjU2IiwidmFsdWUiOiJjMzA4ZmNjNWI5YTBiY2FmNThmYzMzYmIxOGIwMmY4NzM0ODVmMjY3ODI2YmJmNzM4NmRhMTc3MjQ1NmEyMmZjIn19LCJzaWduYXR1cmUiOnsiY29udGVudCI6Ik1FVUNJUUNydG5DcFZLcGhLNUpiWDFXUTU4NlJnL2MvV0w4NEw2LzIzY3ZqT2FVVjJ3SWdIeDJiN2xpWkNaMUJlVEtwVjhFdHIyS21OU3Q3SGhvWDhXT2ttZnhNbk1rPSIsInB1YmxpY0tleSI6eyJjb250ZW50IjoiTFMwdExTMUNSVWRKVGlCRFJWSlVTVVpKUTBGVVJTMHRMUzB0Q2sxSlNVUlFla05EUVhOWFowRjNTVUpCWjBsVllXWkhSRnBzZUhsQ1ZYTlRZelZKU2pCb1VsSkNRVXhzZFRWamQwTm5XVWxMYjFwSmVtb3dSVUYzVFhjS1RucEZWazFDVFVkQk1WVkZRMmhOVFdNeWJHNWpNMUoyWTIxVmRWcEhWakpOVWpSM1NFRlpSRlpSVVVSRmVGWjZZVmRrZW1SSE9YbGFVekZ3WW01U2JBcGpiVEZzV2tkc2FHUkhWWGRJYUdOT1RXcFpkMDlVUVhoTlZHc3dUVVJWTUZkb1kwNU5hbGwzVDFSQmVFMVVhekZOUkZVd1YycEJRVTFHYTNkRmQxbElDa3R2V2tsNmFqQkRRVkZaU1V0dldrbDZhakJFUVZGalJGRm5RVVZ4V2l0aGRWY3pjR2xHUW1oM09HNDNWWFpCUVVWRlUwOVhVeXMwY0RSUU5uTlFTM1lLUzJ3eUx6aDZPVzVQV1VGYWNraExWMmxNY0VWUlRuQkJlWE5sV0RSblJWVnhhRlV2V1hoNWMySTVXbmhLWWt0dlpIRlBRMEZsVVhkblowaG5UVUUwUndwQk1WVmtSSGRGUWk5M1VVVkJkMGxJWjBSQlZFSm5UbFpJVTFWRlJFUkJTMEpuWjNKQ1owVkdRbEZqUkVGNlFXUkNaMDVXU0ZFMFJVWm5VVlV3YkdwVENqWXpTWGx5UXk5b1FYWnBTMFpHTm5SNll6RjVNMDR3ZDBoM1dVUldVakJxUWtKbmQwWnZRVlV6T1ZCd2VqRlphMFZhWWpWeFRtcHdTMFpYYVhocE5Ga0tXa1E0ZDA5QldVUldVakJTUVZGSUwwSkROSGRNU1VWeFRXcGpNRTVxVVRWTlZHczFTekJLZVZsWE5XaGlha0pCWkZoT2JHTnVUWFZpYlRsNVdsaENjd3BsVXpWdVlWaFNiMlJYU1hWWk1qbDBUVU4zUjBOcGMwZEJVVkZDWnpjNGQwRlJSVVZJYldnd1pFaENlazlwT0haYU1td3dZVWhXYVV4dFRuWmlVemx6Q21JeVpIQmlhVGwyV1ZoV01HRkVRWFZDWjI5eVFtZEZSVUZaVHk5TlFVVkpRa05CVFVodGFEQmtTRUo2VDJrNGRsb3liREJoU0ZacFRHMU9kbUpUT1hNS1lqSmtjR0pwT1haWldGWXdZVVJDVlVKbmIzSkNaMFZGUVZsUEwwMUJSVmxDUlZsTlVrVk9ibUV6YkU5bGJFVjVWR3RTY21WRk9WVmhNVTVMWWxkbmR3cGFSV2hEWldzNWNGWlliRk5oVmxZMVZXMHhhMk5IVWtoaFJFWmFZVlJXY1ZscVNYZGlSVEZ5VjI1T2FVMXRVbmRaYld4V1pWWktkRTlYYUd0WFJrcDJDazFKUjB0Q1oyOXlRbWRGUlVGa1dqVkJaMUZEUWtoM1JXVm5RalJCU0ZsQk0xUXdkMkZ6WWtoRlZFcHFSMUkwWTIxWFl6TkJjVXBMV0hKcVpWQkxNeThLYURSd2VXZERPSEEzYnpSQlFVRkhaMWh1TUdwSFFVRkJRa0ZOUVZKNlFrWkJhVUpDVHprMldtdE5ZMFo0V25NMk4zbFpWMVJtY1c4d2RHRnJXRGsyWXdvdlFVaDNUVWczV0RoUWNrMTZRVWxvUVVsNFJrZEZNRXRhYWk5aWRFMVlPRmhNTldORlpEZFhOMDFGVG14UVltMVFXa05YT0VvNFRWSkJORkJOUVc5SENrTkRjVWRUVFRRNVFrRk5SRUV5WjBGTlIxVkRUVVZ4U2prNU9FMTFhamxvZWxjek9UazFaM0ZGZFZaVlZXMDNPVVIyYkZCdkwyVmpPSEJUWmxKUVFVSUtRMnhIVjNSTVYwUXpjMEpCVjBORE1Ga3JVVXBHWjBsNFFVOVdMM0ZYTTBGWVFtWjFObWxXTlhOd05qZENabkZ3UlU5WGR6Sk9jVGxyYkVWWmIzaFNRZ3BWVmpKRmVYZzFORWhhTkhwWlJ6UkxUWGdyT0V4MGFuUnFVVDA5Q2kwdExTMHRSVTVFSUVORlVsUkpSa2xEUVZSRkxTMHRMUzBLIn19fX0=",
+       "inclusionPromise": {
+        "signedEntryTimestamp": "MEQCIFU5hyZeHG5fCakb29p5K7sOwkE+s4DEob5andOxyfO2AiBTUqJGryGYiyxU4y4W5B/fp78FTAH5aN/q5kYTOAlKHw=="
+       },
+       "inclusionProof": {
+        "checkpoint": {
+         "envelope": "rekor.sigstore.dev - 1193050959916656506\n2558011675\nShkocimyqYSnpW5y80Dk5FxQGP0TA2GlNUD6hqPDoIA=\n\n\u2014 rekor.sigstore.dev wNI9ajBFAiEAnfxAxqQd1wZj9mOpqjqO196bbHH+P+9iVBc4v9jTk40CIC1GRK7ZEYy2CIhOaEhoMmH1lTEpXrcMnc8SH77wd0go\n"
+        },
+        "hashes": [
+         "A93aa6d+U4EYnYCUJMAblS0560VlF6oggVQK2vuYiDI=",
+         "IbgKzuy6v+kjnZeE9Ed02AmB7bHr7A5FP7VLFqNqjQc=",
+         "dWYMUKjOUr4JHCnH2SawMEsatKmDu4F3fkreQBs9tvA=",
+         "/ZHlbmvN5yef9WaULEbwpKcw9lfLDkf2XfGi64IIT24=",
+         "WI2HZQKG+lIcvttykMNCZj5MJw5IVwO2Fy2gbZnaPPs=",
+         "o1phsfMZua8jZ2OOrijbo4wgydJgt6TVFPQ1ggkOdLM=",
+         "CzwgaMkVyaY3rPiEhqodYo6YHN8D3rsQZYHc5wCuo3I=",
+         "y6hwsGsWu5ccfHLnETedFGAqR0IEo2ftY80p3BzjKy8=",
+         "DUxiXMDJyulOriG1UPPXkWJuegx8mfiXKBdTQkCFwhw=",
+         "kv+H4q6Z3ogBWkd+IDqG46R2xG7ghfnRq28SXBp0BcE=",
+         "/7Mrva+smcuOSAUamgAAnlU6WDjX01mVt0u9CfyOS3w=",
+         "eXSLrLqKSxRTixSP/k4YimriB2lufao6trqTrsxxlyg=",
+         "SndbMKVtcTenAkwi2JBfGzD+mhexp1qJbRIY+A1JRIU=",
+         "xH/DCseLHr9eKoYT8qsORZK7zVdEGYWHuVtsVrD95wY="
+        ],
+        "logIndex": "2558011672",
+        "rootHash": "ShkocimyqYSnpW5y80Dk5FxQGP0TA2GlNUD6hqPDoIA=",
+        "treeSize": "2558011675"
+       },
+       "integratedTime": "1788291654",
+       "kindVersion": {
+        "kind": "hashedrekord",
+        "version": "0.0.1"
+       },
+       "logId": {
+        "keyId": "wNI9atQGlz+VWfO6LRygH4QUfY/8W4RFwiT5i5WRgB0="
+       },
+       "logIndex": "2679915934"
+      }
+     ]
+    }
+   },
+   "keyid": "5bb9b6f662403acaedc2d11ad9a0f6815eb8d5cad409d4f9e2b8fea117d21cd4",
+   "sig": "MEUCIQCrtnCpVKphK5JbX1WQ586Rg/c/WL84L6/23cvjOaUV2wIgHx2b7liZCZ1BeTKpV8Etr2KmNSt7HhoX8WOkmfxMnMk="
   }
+ ],
+ "signed": {
+  "_type": "targets",
+  "expires": "2027-09-01T19:40:00Z",
+  "spec_version": "1.0.31",
+  "targets": {
+   "jurisdictions/AT.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-at",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "c32cae33f466970ad1261ebce270ad9525b7ac3752a49302812dc9bda47337f3"
+    },
+    "length": 5239
+   },
+   "jurisdictions/BE.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-be",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "6034c3cf799dfb697549688b0dca862d60e5787252abdb32761bd48ee3bf087b"
+    },
+    "length": 5283
+   },
+   "jurisdictions/BG.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-bg",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "2b36fe479321d73ab7352e6f153e8195dcb65d6978b4944617e3e1b1c05c01d3"
+    },
+    "length": 5242
+   },
+   "jurisdictions/CN.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-cn",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "501e3d0aa2b19dd35b6f2027c9e6a79da21d0e9f2209efbf2dbdd7464c5575f8"
+    },
+    "length": 3263
+   },
+   "jurisdictions/CY.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-cy",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "f89547bd3f59ecb7cba550890903eda82b5f623d3babd5419e05a2ad618961ef"
+    },
+    "length": 5300
+   },
+   "jurisdictions/CZ.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-cz",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "e6aff9b7800a5c72924f3061b8dcbccacfbf449dde8e78322cbab24012172d47"
+    },
+    "length": 5233
+   },
+   "jurisdictions/DE.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-de",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "566ece201b8b36456f2201182cd28c03a5ff13aaab76607cc4e3003310275736"
+    },
+    "length": 5351
+   },
+   "jurisdictions/DK.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-dk",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "ccf774c818c77e87eb738fd55b65cd940f36b45c6c058dcd9c08e38b238af56f"
+    },
+    "length": 5203
+   },
+   "jurisdictions/EE.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-ee",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "486b04b0af9edf40a0d9960ea6cda3533c6f3265afccbc5df36f0b11ef5fdf74"
+    },
+    "length": 5209
+   },
+   "jurisdictions/ES.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-es",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "916bbee08f99b3e48b48291dc300de403bcaa62c2315bf99c1fefdf9c659d4f7"
+    },
+    "length": 5243
+   },
+   "jurisdictions/FI.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-fi",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "fcc6ef1454ad33c93cd8e9dfb0bec9e1d9772118556edc2c809a44c7da8c88a5"
+    },
+    "length": 5251
+   },
+   "jurisdictions/FR.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-fr",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "703c4f0bd1fe2be2158d780e3ecb9d5d2a16b6007358fa334ac98349506509ad"
+    },
+    "length": 5272
+   },
+   "jurisdictions/GB.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-gb",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "f4e0e1604cb02ab4b3d72c738b852c5595db5a1ac96d4b8bcbee15b6db1ee852"
+    },
+    "length": 5704
+   },
+   "jurisdictions/GR.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-gr",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "dd6fc7957675e38f7ed6bb5b1e504277350570d7bee319ccb2dc1785e1cbfd21"
+    },
+    "length": 5228
+   },
+   "jurisdictions/HR.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-hr",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "03c73ed446635b219c2c4797bca29481f52ee9719e86d2b5d44475cf897b2e31"
+    },
+    "length": 5229
+   },
+   "jurisdictions/HU.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-hu",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "ba91f60f0b032342663a5e4029964c833f41e8f7343bdfa043e7e36c7d388987"
+    },
+    "length": 5293
+   },
+   "jurisdictions/IE.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-ie",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "55806d281eb8b7f7433000b4ed3803782ae771c4b835df92b5f0f67a3744b8c6"
+    },
+    "length": 5235
+   },
+   "jurisdictions/IS.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-is",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "510078abd219da938ed503d8cb03751d87f6b395d157bcf8d8cb07054c4e1bb6"
+    },
+    "length": 5277
+   },
+   "jurisdictions/IT.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-it",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "f1f134891eaafd5652d24f2ae96129c4e093929dce9d059bbf2677f41bf250d3"
+    },
+    "length": 5269
+   },
+   "jurisdictions/LI.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-li",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "51649e73b451a86140d21cadb71f26444a63ee47be9db833a67cda88dcf09be2"
+    },
+    "length": 5245
+   },
+   "jurisdictions/LT.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-lt",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "b49c4d3d8c12349d044477d4383f4da05ad4ddd8ed0cf5472dc104d3e97f61c9"
+    },
+    "length": 5233
+   },
+   "jurisdictions/LU.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-lu",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "3fe13638f436045ebd5eb69e4746465c4345ffd1895792e1e213a7b3995fa66d"
+    },
+    "length": 5290
+   },
+   "jurisdictions/LV.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-lv",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "9e82260383bcb48258f5edb2a7cfc717ebf8739a4d67e8993af3c40aafcb1539"
+    },
+    "length": 5218
+   },
+   "jurisdictions/MT.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-mt",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "22925b4a29c4cb9418824fec67e1575c68bdb923bbfe08bfca23295db1e45066"
+    },
+    "length": 5249
+   },
+   "jurisdictions/NL.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-nl",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "629d11596fd5f140599ce6af37b1e4e6d9e1467f8900081b65cb1e6537f5c514"
+    },
+    "length": 5257
+   },
+   "jurisdictions/NO.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-no",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "1bf78e632023d3bc4632b6a1be8efda7a427ad4ea97aa8045ef31728e155eb7b"
+    },
+    "length": 5202
+   },
+   "jurisdictions/PL.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-pl",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "a2e99f1ea94d16b9140d58051248f09c8c81741700fa28bacde5e2b249517a7f"
+    },
+    "length": 5224
+   },
+   "jurisdictions/PT.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-pt",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "eaa0aa8709ea6e8000fadad2ddd952ca11ba7266d70c24033246aa4623d7f19e"
+    },
+    "length": 5246
+   },
+   "jurisdictions/RO.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-ro",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "d14766b26efc1ecfda676e0c198342621269c06dcf3ddd1df5cc1fedf9940742"
+    },
+    "length": 5301
+   },
+   "jurisdictions/SE.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-se",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "fa47a5f22caa52a55a539f502bae26783d55126b501676a942407a1ad42cffee"
+    },
+    "length": 5240
+   },
+   "jurisdictions/SI.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-si",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "5bff369ad157773b2f96ccf550b6c7617a30b1d5a7e060681a9474fcfadd44fd"
+    },
+    "length": 5214
+   },
+   "jurisdictions/SK.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-sk",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "51162703a6fccd0b46f48b6fb2bab280a240baca6b78cd8dad8ed4dc9774b698"
+    },
+    "length": 5264
+   },
+   "jurisdictions/US.json": {
+    "custom": {
+     "max_bytes": 65536,
+     "schema_version": 1,
+     "sequence": 2,
+     "target_id": "jurisdiction-us",
+     "target_type": "jurisdiction",
+     "version": "2"
+    },
+    "hashes": {
+     "sha256": "47abfd431033be2ee6dc536aa4a6126b6cddb59dcff9578d96629ada4a433779"
+    },
+    "length": 2490
+   }
+  },
+  "version": 2,
+  "x-tuf-on-ci-expiry-period": 365,
+  "x-tuf-on-ci-signing-period": 60
+ }
 }
