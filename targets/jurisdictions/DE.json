@@ -27,7 +27,7 @@
   "english_explanation": "GDPR access, correction, erasure, restriction, portability and objection rights are available, subject to their legal conditions and exceptions. Send the initial request to the organisation controlling the data; use the national authority for guidance or escalation. The legal deadline is one calendar month, represented as 30 days for reminders, and may be extended by two further months for a complex request if the controller explains the extension. No request or identity document is submitted automatically.",
   "iso_code": "DE",
   "language": "de",
-  "pack_version": 1,
+  "pack_version": 2,
   "review_due_at": "2027-03-01",
   "reviewed_at": "2026-09-01",
   "rights": [

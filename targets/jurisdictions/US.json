@@ -20,7 +20,7 @@
   "english_explanation": "This country-level pack verifies the federal Privacy Act right to access and correct covered federal-agency records; it does not claim a nationwide general right to make every private company delete data. The FTC notes that some states provide company-data deletion rights, so a state-specific or sector-specific route must be selected before legal wording is generated for a private organisation. The federal route requires identity proof and is never submitted automatically.",
   "iso_code": "US",
   "language": "en",
-  "pack_version": 1,
+  "pack_version": 2,
   "review_due_at": "2027-03-01",
   "reviewed_at": "2026-09-01",
   "rights": [

@@ -20,7 +20,7 @@
   "english_explanation": "China's Personal Information Protection Law gives individuals rights to consult, copy, correct, complete and, in the circumstances in Article 47, delete personal information. The law does not provide one universal response-day value for these requests, so provider-specific or later authoritative deadlines must be used. The linked CAC channel is a Chinese-language complaint route; it is always user-reviewed and never submitted automatically.",
   "iso_code": "CN",
   "language": "zh",
-  "pack_version": 1,
+  "pack_version": 2,
   "review_due_at": "2027-03-01",
   "reviewed_at": "2026-09-01",
   "rights": [
