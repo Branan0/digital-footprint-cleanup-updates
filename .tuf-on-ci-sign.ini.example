@@ -1,0 +1,4 @@
+[settings]
+user-name = @REPLACE_WITH_GITHUB_USERNAME
+pull-remote = origin
+push-remote = origin

@@ -1,0 +1,64 @@
+{
+  "authoritative_sources": [
+    {
+      "authority_type": "government",
+      "checked_at": "2026-09-01",
+      "language": "en",
+      "title": "USAGov Privacy Act request guidance",
+      "url": "https://www.usa.gov/government-files-privacy"
+    },
+    {
+      "authority_type": "government",
+      "checked_at": "2026-09-01",
+      "language": "en",
+      "title": "FTC consumer guidance on company data sharing and state deletion rights",
+      "url": "https://consumer.ftc.gov/consumer-alerts/2024/04/when-companies-share-your-personal-information-without-your-permission"
+    }
+  ],
+  "country_name": "United States",
+  "effective_at": null,
+  "english_explanation": "This country-level pack verifies the federal Privacy Act right to access and correct covered federal-agency records; it does not claim a nationwide general right to make every private company delete data. The FTC notes that some states provide company-data deletion rights, so a state-specific or sector-specific route must be selected before legal wording is generated for a private organisation. The federal route requires identity proof and is never submitted automatically.",
+  "iso_code": "US",
+  "language": "en",
+  "pack_version": 1,
+  "review_due_at": "2027-03-01",
+  "reviewed_at": "2026-09-01",
+  "rights": [
+    {
+      "deadline_days": null,
+      "exceptions": [
+        "The right is limited to covered federal-agency systems of records and is subject to statutory exemptions."
+      ],
+      "legal_basis": "Privacy Act of 1974, 5 U.S.C. § 552a",
+      "proof_requirements": [
+        "Contact the agency holding the record and provide the identity proof and record details that agency requires."
+      ],
+      "right_id": "federal-privacy-act-access-correction",
+      "title": "Access and correct covered federal-agency records"
+    }
+  ],
+  "rights_state": "verified_rights",
+  "routes": [
+    {
+      "action_types": [
+        "legal_request"
+      ],
+      "automatic_submission_allowed": false,
+      "identity_document": "required",
+      "language": "en",
+      "minimum_disclosures": [
+        "name",
+        "contact_details",
+        "agency",
+        "record_locator",
+        "request_summary"
+      ],
+      "route_basis": "legal",
+      "route_id": "federal-agency-privacy-act-request",
+      "title": "Privacy Act request to the federal agency holding the record",
+      "url": "https://www.usa.gov/government-files-privacy"
+    }
+  ],
+  "schema_version": 1,
+  "templates": []
+}

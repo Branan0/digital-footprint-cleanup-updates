@@ -1,0 +1,132 @@
+{
+  "authoritative_sources": [
+    {
+      "authority_type": "statute",
+      "checked_at": "2026-09-01",
+      "language": "en",
+      "title": "General Data Protection Regulation",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679"
+    },
+    {
+      "authority_type": "regulator",
+      "checked_at": "2026-09-01",
+      "language": "en",
+      "title": "European Data Protection Board member authorities",
+      "url": "https://www.edpb.europa.eu/about-edpb/our-members_en"
+    },
+    {
+      "authority_type": "regulator",
+      "checked_at": "2026-09-01",
+      "language": "bg",
+      "title": "Commission for Personal Data Protection",
+      "url": "https://www.cpdp.bg/"
+    }
+  ],
+  "country_name": "Bulgaria",
+  "effective_at": "2018-05-25",
+  "english_explanation": "GDPR access, correction, erasure, restriction, portability and objection rights are available, subject to their legal conditions and exceptions. Send the initial request to the organisation controlling the data; use the national authority for guidance or escalation. The legal deadline is one calendar month, represented as 30 days for reminders, and may be extended by two further months for a complex request if the controller explains the extension. No request or identity document is submitted automatically.",
+  "iso_code": "BG",
+  "language": "bg",
+  "pack_version": 1,
+  "review_due_at": "2027-03-01",
+  "reviewed_at": "2026-09-01",
+  "rights": [
+    {
+      "deadline_days": 30,
+      "exceptions": [
+        "Rights and freedoms of other people and applicable statutory restrictions may limit disclosure."
+      ],
+      "legal_basis": "GDPR Articles 12 and 15",
+      "proof_requirements": [
+        "Enough information to identify the account or record; extra identity evidence only where the controller has reasonable doubts about identity."
+      ],
+      "right_id": "access",
+      "title": "Access personal data"
+    },
+    {
+      "deadline_days": 30,
+      "exceptions": [
+        "The controller may verify the disputed facts before changing the record."
+      ],
+      "legal_basis": "GDPR Article 16",
+      "proof_requirements": [
+        "Enough information to identify the account or record; extra identity evidence only where the controller has reasonable doubts about identity."
+      ],
+      "right_id": "rectification",
+      "title": "Correct inaccurate or incomplete personal data"
+    },
+    {
+      "deadline_days": 30,
+      "exceptions": [
+        "The right is not absolute.",
+        "Freedom of expression, legal obligations, public tasks, public health, qualifying archives or research, and legal claims may justify retention."
+      ],
+      "legal_basis": "GDPR Article 17",
+      "proof_requirements": [
+        "Enough information to identify the account or record; extra identity evidence only where the controller has reasonable doubts about identity."
+      ],
+      "right_id": "erasure",
+      "title": "Erase personal data in specified circumstances"
+    },
+    {
+      "deadline_days": 30,
+      "exceptions": [
+        "Restricted data may still be stored and used for consented purposes, legal claims, other people's rights, or important public interests."
+      ],
+      "legal_basis": "GDPR Article 18",
+      "proof_requirements": [
+        "Enough information to identify the account or record; extra identity evidence only where the controller has reasonable doubts about identity."
+      ],
+      "right_id": "restriction",
+      "title": "Restrict processing in specified circumstances"
+    },
+    {
+      "deadline_days": 30,
+      "exceptions": [
+        "This applies to qualifying automated processing based on consent or contract and must not harm other people's rights."
+      ],
+      "legal_basis": "GDPR Article 20",
+      "proof_requirements": [
+        "Enough information to identify the account or record; extra identity evidence only where the controller has reasonable doubts about identity."
+      ],
+      "right_id": "portability",
+      "title": "Receive and transmit qualifying data"
+    },
+    {
+      "deadline_days": 30,
+      "exceptions": [
+        "A controller may continue non-marketing processing where compelling legitimate grounds or legal claims override the objection."
+      ],
+      "legal_basis": "GDPR Article 21",
+      "proof_requirements": [
+        "Enough information to identify the account or record; extra identity evidence only where the controller has reasonable doubts about identity."
+      ],
+      "right_id": "object",
+      "title": "Object to specified processing"
+    }
+  ],
+  "rights_state": "verified_rights",
+  "routes": [
+    {
+      "action_types": [
+        "legal_request"
+      ],
+      "automatic_submission_allowed": false,
+      "identity_document": "may_request",
+      "language": "bg",
+      "minimum_disclosures": [
+        "name",
+        "contact_details",
+        "controller",
+        "record_locator",
+        "request_summary"
+      ],
+      "route_basis": "legal",
+      "route_id": "national-dpa-guidance-complaint",
+      "title": "Commission for Personal Data Protection guidance or complaint route",
+      "url": "https://www.cpdp.bg/"
+    }
+  ],
+  "schema_version": 1,
+  "templates": []
+}

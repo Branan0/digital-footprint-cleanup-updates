@@ -1,0 +1,5 @@
+tuf-on-ci-sign==0.20.0
+# tuf-on-ci-sign 0.20.0 imports PyKCS11 even when Sigstore is selected. 1.5.18
+# fails to compile on the pinned CPython 3.11 environment; 1.5.19 is the first
+# tested compatible release here.
+PyKCS11==1.5.19

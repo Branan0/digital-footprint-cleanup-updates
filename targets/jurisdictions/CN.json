@@ -1,0 +1,88 @@
+{
+  "authoritative_sources": [
+    {
+      "authority_type": "statute",
+      "checked_at": "2026-09-01",
+      "language": "zh",
+      "title": "Personal Information Protection Law",
+      "url": "https://www.cac.gov.cn/2021-08/20/c_1631050028355286.htm"
+    },
+    {
+      "authority_type": "government",
+      "checked_at": "2026-09-01",
+      "language": "zh",
+      "title": "CAC personal-information complaint channel",
+      "url": "https://www.pipchina.cn/h5/"
+    }
+  ],
+  "country_name": "China",
+  "effective_at": "2021-11-01",
+  "english_explanation": "China's Personal Information Protection Law gives individuals rights to consult, copy, correct, complete and, in the circumstances in Article 47, delete personal information. The law does not provide one universal response-day value for these requests, so provider-specific or later authoritative deadlines must be used. The linked CAC channel is a Chinese-language complaint route; it is always user-reviewed and never submitted automatically.",
+  "iso_code": "CN",
+  "language": "zh",
+  "pack_version": 1,
+  "review_due_at": "2027-03-01",
+  "reviewed_at": "2026-09-01",
+  "rights": [
+    {
+      "deadline_days": null,
+      "exceptions": [
+        "The statutory exceptions referenced by Article 45 may apply."
+      ],
+      "legal_basis": "Personal Information Protection Law Articles 44 and 45",
+      "proof_requirements": [
+        "Enough information for the personal-information processor to identify the person and relevant record."
+      ],
+      "right_id": "access-copy",
+      "title": "Consult and copy personal information"
+    },
+    {
+      "deadline_days": null,
+      "exceptions": [
+        "The processor may verify whether the information is inaccurate or incomplete."
+      ],
+      "legal_basis": "Personal Information Protection Law Article 46",
+      "proof_requirements": [
+        "Identify the inaccurate or incomplete information and the requested correction."
+      ],
+      "right_id": "correct-complete",
+      "title": "Correct or complete inaccurate personal information"
+    },
+    {
+      "deadline_days": null,
+      "exceptions": [
+        "Where a statutory retention period has not expired or deletion is technically difficult, processing must be limited to storage and necessary security measures."
+      ],
+      "legal_basis": "Personal Information Protection Law Article 47",
+      "proof_requirements": [
+        "Identify the processor, account or record and the Article 47 circumstance relied on."
+      ],
+      "right_id": "delete",
+      "title": "Request deletion in specified circumstances"
+    }
+  ],
+  "rights_state": "verified_rights",
+  "routes": [
+    {
+      "action_types": [
+        "legal_request"
+      ],
+      "automatic_submission_allowed": false,
+      "identity_document": "may_request",
+      "language": "zh",
+      "minimum_disclosures": [
+        "name",
+        "contact_details",
+        "processor",
+        "record_locator",
+        "request_summary"
+      ],
+      "route_basis": "legal",
+      "route_id": "cac-personal-information-complaint",
+      "title": "Personal-information unlawful-processing complaint channel",
+      "url": "https://www.pipchina.cn/h5/"
+    }
+  ],
+  "schema_version": 1,
+  "templates": []
+}

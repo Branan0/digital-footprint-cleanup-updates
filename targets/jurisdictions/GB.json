@@ -1,0 +1,140 @@
+{
+  "authoritative_sources": [
+    {
+      "authority_type": "government",
+      "checked_at": "2026-09-01",
+      "language": "en",
+      "title": "UK data protection legislation and rights",
+      "url": "https://www.gov.uk/data-protection/the-data-protection-act"
+    },
+    {
+      "authority_type": "regulator",
+      "checked_at": "2026-09-01",
+      "language": "en",
+      "title": "ICO right to erasure guidance and request template",
+      "url": "https://ico.org.uk/for-the-public/your-right-to-get-your-data-deleted/"
+    },
+    {
+      "authority_type": "statute",
+      "checked_at": "2026-09-01",
+      "language": "en",
+      "title": "Data Protection Act 2018",
+      "url": "https://www.legislation.gov.uk/ukpga/2018/12/contents"
+    }
+  ],
+  "country_name": "United Kingdom",
+  "effective_at": "2021-01-01",
+  "english_explanation": "The UK GDPR and Data Protection Act 2018 provide access, correction, erasure, restriction, portability and objection rights, subject to conditions and exemptions. The ICO says an erasure request can be verbal or written and the organisation normally has one calendar month to respond. The Data (Use and Access) Act has caused some ICO guidance to be reviewed, so the cited current ICO page takes precedence over generated wording. No request or identity document is submitted automatically.",
+  "iso_code": "GB",
+  "language": "en",
+  "pack_version": 1,
+  "review_due_at": "2027-03-01",
+  "reviewed_at": "2026-09-01",
+  "rights": [
+    {
+      "deadline_days": 30,
+      "exceptions": [
+        "Rights and freedoms of other people and applicable statutory restrictions may limit disclosure."
+      ],
+      "legal_basis": "UK GDPR Articles 12 and 15",
+      "proof_requirements": [
+        "Enough information to identify the account or record; extra identity evidence only where the controller has reasonable doubts about identity."
+      ],
+      "right_id": "access",
+      "title": "Access personal data"
+    },
+    {
+      "deadline_days": 30,
+      "exceptions": [
+        "The controller may verify the disputed facts before changing the record."
+      ],
+      "legal_basis": "UK GDPR Article 16",
+      "proof_requirements": [
+        "Enough information to identify the account or record; extra identity evidence only where the controller has reasonable doubts about identity."
+      ],
+      "right_id": "rectification",
+      "title": "Correct inaccurate or incomplete personal data"
+    },
+    {
+      "deadline_days": 30,
+      "exceptions": [
+        "The right is not absolute.",
+        "Freedom of expression, legal obligations, public tasks, public health, qualifying archives or research, and legal claims may justify retention."
+      ],
+      "legal_basis": "UK GDPR Article 17",
+      "proof_requirements": [
+        "Enough information to identify the account or record; extra identity evidence only where the controller has reasonable doubts about identity."
+      ],
+      "right_id": "erasure",
+      "title": "Erase personal data in specified circumstances"
+    },
+    {
+      "deadline_days": 30,
+      "exceptions": [
+        "Restricted data may still be stored and used for consented purposes, legal claims, other people's rights, or important public interests."
+      ],
+      "legal_basis": "UK GDPR Article 18",
+      "proof_requirements": [
+        "Enough information to identify the account or record; extra identity evidence only where the controller has reasonable doubts about identity."
+      ],
+      "right_id": "restriction",
+      "title": "Restrict processing in specified circumstances"
+    },
+    {
+      "deadline_days": 30,
+      "exceptions": [
+        "This applies to qualifying automated processing based on consent or contract and must not harm other people's rights."
+      ],
+      "legal_basis": "UK GDPR Article 20",
+      "proof_requirements": [
+        "Enough information to identify the account or record; extra identity evidence only where the controller has reasonable doubts about identity."
+      ],
+      "right_id": "portability",
+      "title": "Receive and transmit qualifying data"
+    },
+    {
+      "deadline_days": 30,
+      "exceptions": [
+        "A controller may continue non-marketing processing where compelling legitimate grounds or legal claims override the objection."
+      ],
+      "legal_basis": "UK GDPR Article 21",
+      "proof_requirements": [
+        "Enough information to identify the account or record; extra identity evidence only where the controller has reasonable doubts about identity."
+      ],
+      "right_id": "object",
+      "title": "Object to specified processing"
+    }
+  ],
+  "rights_state": "verified_rights",
+  "routes": [
+    {
+      "action_types": [
+        "legal_request",
+        "source_content_removal"
+      ],
+      "automatic_submission_allowed": false,
+      "identity_document": "may_request",
+      "language": "en",
+      "minimum_disclosures": [
+        "name",
+        "contact_details",
+        "record_locator",
+        "request_summary"
+      ],
+      "route_basis": "legal",
+      "route_id": "ico-erasure-guidance",
+      "title": "ICO erasure guidance and controller-request template",
+      "url": "https://ico.org.uk/for-the-public/your-right-to-get-your-data-deleted/"
+    }
+  ],
+  "schema_version": 1,
+  "templates": [
+    {
+      "english_explanation": "The ICO page includes suggested wording for asking the organisation controlling the data to erase specified personal data.",
+      "language": "en",
+      "official_url": "https://ico.org.uk/for-the-public/your-right-to-get-your-data-deleted/",
+      "template_id": "ico-erasure-request",
+      "title": "ICO right-to-erasure request template"
+    }
+  ]
+}

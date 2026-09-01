@@ -1,2 +1,4 @@
 # Local configuration for tuf-on-ci-sign
 .tuf-on-ci-sign.ini
+__pycache__/
+*.py[cod]
