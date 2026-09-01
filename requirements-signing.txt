@@ -1,5 +1,8 @@
-tuf-on-ci-sign==0.20.0
-# tuf-on-ci-sign 0.20.0 imports PyKCS11 even when Sigstore is selected. 1.5.18
-# fails to compile on the pinned CPython 3.11 environment; 1.5.19 is the first
-# tested compatible release here.
+# Official post-0.20 compatibility commit: permits python-tuf 7, which fixes
+# GHSA-qp9x-wp8f-qgjj. Keep workflows on the released v0.20.0 action commit.
+tuf-on-ci-sign @ git+https://github.com/theupdateframework/tuf-on-ci.git@37b868ef26f7abcffa76c1b15e82bec8beb6a82d#subdirectory=signer
+tuf==7.0.0
+setuptools==84.0.0
+# TUF-on-CI imports PyKCS11 even when Sigstore is selected. 1.5.18 fails to
+# compile on the pinned CPython 3.11 environment; 1.5.19 is tested here.
 PyKCS11==1.5.19
