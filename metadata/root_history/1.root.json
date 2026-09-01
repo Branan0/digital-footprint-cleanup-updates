@@ -1,0 +1,67 @@
+{
+ "signatures": [
+  {
+   "keyid": "5bb9b6f662403acaedc2d11ad9a0f6815eb8d5cad409d4f9e2b8fea117d21cd4",
+   "sig": ""
+  }
+ ],
+ "signed": {
+  "_type": "root",
+  "consistent_snapshot": true,
+  "expires": "2027-09-01T13:45:36Z",
+  "keys": {
+   "5bb9b6f662403acaedc2d11ad9a0f6815eb8d5cad409d4f9e2b8fea117d21cd4": {
+    "keytype": "sigstore-oidc",
+    "keyval": {
+     "identity": "274649199+Branan0@users.noreply.github.com",
+     "issuer": "https://github.com/login/oauth"
+    },
+    "scheme": "Fulcio",
+    "x-tuf-on-ci-keyowner": "@branan0"
+   },
+   "60b449d0b86cba439a0da4386fa790c3e198c3132657a9eed10d78b14e0a52d0": {
+    "keytype": "sigstore-oidc",
+    "keyval": {
+     "identity": "https://github.com/Branan0/digital-footprint-cleanup-updates/.github/workflows/online-sign.yml@refs/heads/main",
+     "issuer": "https://token.actions.githubusercontent.com"
+    },
+    "scheme": "Fulcio",
+    "x-tuf-on-ci-online-uri": "sigstore:"
+   }
+  },
+  "roles": {
+   "root": {
+    "keyids": [
+     "5bb9b6f662403acaedc2d11ad9a0f6815eb8d5cad409d4f9e2b8fea117d21cd4"
+    ],
+    "threshold": 1
+   },
+   "snapshot": {
+    "keyids": [
+     "60b449d0b86cba439a0da4386fa790c3e198c3132657a9eed10d78b14e0a52d0"
+    ],
+    "threshold": 1,
+    "x-tuf-on-ci-expiry-period": 365,
+    "x-tuf-on-ci-signing-period": 60
+   },
+   "targets": {
+    "keyids": [
+     "5bb9b6f662403acaedc2d11ad9a0f6815eb8d5cad409d4f9e2b8fea117d21cd4"
+    ],
+    "threshold": 1
+   },
+   "timestamp": {
+    "keyids": [
+     "60b449d0b86cba439a0da4386fa790c3e198c3132657a9eed10d78b14e0a52d0"
+    ],
+    "threshold": 1,
+    "x-tuf-on-ci-expiry-period": 2,
+    "x-tuf-on-ci-signing-period": 1
+   }
+  },
+  "spec_version": "1.0.31",
+  "version": 1,
+  "x-tuf-on-ci-expiry-period": 365,
+  "x-tuf-on-ci-signing-period": 60
+ }
+}
