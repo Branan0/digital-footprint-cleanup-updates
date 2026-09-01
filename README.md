@@ -1,9 +1,9 @@
 # Digital Footprint Cleanup signed updates
 
 This is the local source tree for the public `digital-footprint-cleanup-updates`
-TUF repository. It was created from the official TUF-on-CI template and keeps
-the template workflows pinned to TUF-on-CI v0.20.0. The local signing tool uses
-TUF-on-CI's verified post-0.20 compatibility commit for patched python-tuf 7.
+TUF repository. It was created from the official TUF-on-CI v0.20.0 template.
+The workflows and local signer use TUF-on-CI's verified post-0.20 compatibility
+commit for patched python-tuf 7.
 
 Current state: **ready for the first signing event, nothing published**. All 33
 UK/EU-EEA/US/China jurisdiction packs and their hash manifest pass the unsigned
