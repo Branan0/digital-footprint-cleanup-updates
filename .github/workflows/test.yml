@@ -17,7 +17,7 @@ jobs:
       contents: read # for checking out the repository
     steps:
       - name: Smoke test TUF-on-CI repository with a TUF client
-        uses: theupdateframework/tuf-on-ci/actions/test-repository@37b868ef26f7abcffa76c1b15e82bec8beb6a82d # v0.20.0 + python-tuf 7 compatibility
+        uses: theupdateframework/tuf-on-ci/actions/test-repository@5a856002aa88346b68f6b389458aa0041c4cb3cb # v0.20.0 + python-tuf 7 compatibility
 
   update-issue:
     runs-on: ubuntu-latest
